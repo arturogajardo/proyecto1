@@ -1,24 +1,30 @@
 h1{
     text-align: center;
-    background-color: chocolate;
+    background-color: goldenrod;
     font-family: sans-serif;
 }
 
-
 body{
-    background-color:wheat;
+    background-color: antiquewhite;
 }
 
 .descripcion{
     font-family: sans-serif;
     text-align: center;
     display: block;
+    border: 3px solid yellow;
+    margin: auto;
 }
 
 .integrantes{
     font-family: sans-serif;
     text-align: center;
     text-decoration: underline;
+}
+
+ul{
+    font-size: large;
+    font-weight: bold;
 }
 
 .contacto{
@@ -38,6 +44,9 @@ body{
 }
 
 label{
-    font-weight: bold;
+    font-weight: lighter;
 }
- 
+
+footer{
+    text-align: center;
+}
