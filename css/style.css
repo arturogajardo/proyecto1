@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    background-color: chocolate;
+    font-family: sans-serif;
+}
+
+
+body{
+    background-color:wheat;
+}
+
+.descripcion{
+    font-family: sans-serif;
+    text-align: center;
+    display: block;
+}
+
+.integrantes{
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.contacto{
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.ayuda{
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#legendcontact{
+    font-weight: bold;
+}
+
+label{
+    font-weight: bold;
+}
+ 
