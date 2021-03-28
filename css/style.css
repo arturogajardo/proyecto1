@@ -1,13 +1,16 @@
+/*Estilo h1*/
 h1{
     text-align: center;
     background-color: goldenrod;
     font-family: sans-serif;
 }
 
+/*Estilo body(cuerpo) de la pagina*/
 body{
     background-color: antiquewhite;
 }
 
+/*Estilo de la descripcion de la pagina(<p>)*/
 .descripcion{
     font-family: sans-serif;
     text-align: center;
@@ -16,7 +19,15 @@ body{
     margin: auto;
 }
 
+/*Estilo de los integrantes*/
 .integrantes{
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/*Estilo del texto h2 del apartado de ayuda*/
+.ayuda{
     font-family: sans-serif;
     text-align: center;
     text-decoration: underline;
@@ -27,17 +38,14 @@ ul{
     font-weight: bold;
 }
 
+/*Estilo del texto h2 del apartado de contacto*/
 .contacto{
     font-family: sans-serif;
     text-align: center;
     text-decoration: underline;
 }
 
-.ayuda{
-    font-family: sans-serif;
-    text-align: center;
-    text-decoration: underline;
-}
+
 
 #legendcontact{
     font-weight: bold;
