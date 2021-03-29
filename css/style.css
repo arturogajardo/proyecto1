@@ -58,3 +58,11 @@ label{
 footer{
     text-align: center;
 }
+
+.cambioColor{
+    color : white;
+}
+
+.cambioColor:hover{
+    color:gray;
+}
