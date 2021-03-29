@@ -1,0 +1,9 @@
+body
+{
+    font-family: 'Oswald', sans-serif;
+    background-color: dimgray;
+}
+a:hover 
+{
+    color: rgb(114, 176, 235);
+}

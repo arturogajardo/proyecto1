@@ -1,0 +1,25 @@
+body
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    background-color: dimgray;
+}
+
+p
+{
+    background-color: firebrick;
+    border: 3px solid maroon;
+    padding: 10px;
+
+}
+
+.center
+{
+    margin: auto;
+    width: 50%;
+
+}
+a:hover 
+{
+    color: rgb(114, 176, 235);
+}
